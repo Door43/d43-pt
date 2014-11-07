@@ -16,7 +16,7 @@ Languages: Idiomas
 Next chapter: Próximo capítulo
 
 
-OK: Confirma (or next:próximo )
+OK: Confirma
 
 
 Cancel: Cancela
@@ -34,10 +34,10 @@ Save this language locally for offline use: Salvar idioma para uso local offline
 Remove locally: Apagar localmente
 
 
-Remove this string: Remover seqüência
+Remove this string: Apagar seqüência
 
 
 Remove this language from offline storage. You will need an internet connection to view it in the future.
 
 
-Remover esse idioma da armazenagem offline. Você precisará de conexão de internet para acessar no futuro.
+Apagar esse idioma da armazenagem offline. Você precisará de conexão de internet para acessar no futuro.
