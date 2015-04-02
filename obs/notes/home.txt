@@ -1,1 +1,1 @@
-<nspages pt-:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Portugues Notes Pages:"​>
+<nspages pt:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Portugues Notes Pages:"​>
