@@ -1,0 +1,19 @@
+VISÃO GERAL DA LICENÇA \\
+\\
+Este é um resumo que pode ser compreendido pelo usuário (e não um substituto) da licença 4.0.  Você pode livremente:
+
+- Compartilhar – copiar e redistribuir o material em qualquer suporte ou formato \\
+- Adaptar – remixar, transformar e aprimorar o material para qualquer finalidade, mesmo que comercial \\
+\\
+O licenciante não pode revogar esses direitos desde que você esteja em conformidade com os termos da licença. \\
+\\
+De acordo com os seguintes termos: \\
+- Atribuição – Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se foram feitas alterações. Você deve fazê-lo em qualquer forma razoável, mas não de maneira a sugerir que o licenciante apoia você ou o seu uso. \\
+- Compartilha Igual – Se você remixar, transformar, ou criar a partir do material, deverá distribuir as suas contribuições sob a mesma licença que o original. \\
+\\
+Sem restrições adicionais – Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permitir. \\
+\\
+Avisos: \\
+Você não precisa cumprir os termos da licença relativos a elementos do material que estejam sob domínio público ou cuja utilização seja permitida por uma exceção ou limitação aplicável. \\
+\\
+Sem garantias dadas. A licença pode não lhe dar todas as autorizações necessárias para o uso pretendido. Por exemplo, outros direitos, tais como direitos de imagem, de privacidade ou direitos morais, podem limitar o seu uso do material.
