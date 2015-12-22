@@ -1,0 +1,16 @@
+====== Complete List of Important Terms ======
+
+==== "Key Terms" and "Other Terms" in OBE: ====
+
+  * [[:pt:obe:kt:home|Key Terms]]
+  * [[:pt:obe:other:home|Other Terms]]
+
+==== Does a term need to be in either of these lists? ====
+  * [[:pt:bible:team-info:training:topics:kt-yes-no]]
+  * [[en:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
+  * [[:pt:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
+==== All Terms in the OBE: ====
+
+<nspages pt:obe -r -title -exclude:home -textPages="">
+
